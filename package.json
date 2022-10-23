@@ -1,0 +1,29 @@
+{
+  "name": "polybotbot",
+  "version": "1.0.0",
+  "description": "Bot discord pour le club Polybot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "prod": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhoqueEberlue/Polybotbot.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "polybot"
+  ],
+  "author": "PhoqueEberlue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PhoqueEberlue/Polybotbot/issues"
+  },
+  "homepage": "https://github.com/PhoqueEberlue/Polybotbot#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
+}
