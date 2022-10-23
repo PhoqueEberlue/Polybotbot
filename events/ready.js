@@ -1,4 +1,4 @@
-const { Events } = require("discord.js");
+const {Events} = require("discord.js");
 
 // Event triggered when the bot is ready
 module.exports = {
